@@ -1,0 +1,26 @@
+{
+  "name": "dhome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "keywords": [
+    "alexa",
+    "react"
+  ],
+  "author": "Priyank Rege",
+  "license": "ISC",
+  "dependencies": {
+    "parcel-bundler": "^ 1.12.3",
+    "react": "^ 16.9.0",
+    "react-dom": "^ 16.9.0",
+    "underscore": "^1.9.1",
+    "victory": "^33.1.6"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^ 1.12.3",
+    "sass": "^1.23.7"
+  }
+}
